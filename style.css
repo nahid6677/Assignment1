@@ -423,6 +423,87 @@ background: linear-gradient(-90.00deg, rgb(247, 247, 247),rgba(255, 255, 255, 0)
 /* section 3 end*/
 
 
+/* section 4 start*/
+
+.section4{
+    width: 1140px;
+    height: 314px;
+    margin: 0 auto;
+    background-image: linear-gradient( 360.00deg, 
+    rgb(5, 5, 5) -19.5%,
+    rgba(7, 7, 7, 0) 100%), url(assets/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 64px 48px 64px 48px;
+    }
+    .section4 .sec4_first{
+    text-align: center;
+    }
+    .section4 .sec4_first h2{
+        color: rgb(255, 255, 255);
+        font-family: Azeret Mono;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0%;
+        text-align: center;
+        padding-bottom: 16px;
+    }
+    .section4 .sec4_first p{
+        color: rgb(255, 255, 255);
+        font-family: Azeret Mono;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0%;
+        text-align: center;
+        opacity: 0.7;
+        padding-bottom: 10px;
+    }
+    .section4 .sec4_second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    }
+    .section4 .sec4_second input{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 19px 20px 19px 20px;
+        box-sizing: border-box;
+        border: 1px solid rgba(13, 19, 33, 0.15);
+        border-radius: 8px;
+        background: rgb(255, 255, 255);
+        width: 548px;
+        height: 57px;
+    }
+    .section4 .sec4_second button{
+        width: 120px;
+    height: 58px;
+    margin: 0px 16px;
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 17px 20px 17px 20px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background: rgb(255, 255, 255);
+    
+    }
+
+/* section 4 end*/
+
+
 
 
 
