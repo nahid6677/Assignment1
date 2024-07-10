@@ -320,6 +320,108 @@ background: linear-gradient(-90.00deg, rgb(247, 247, 247),rgba(255, 255, 255, 0)
 
 /* section 2 end*/
 
+/* section 3 Start*/
+
+.section3{
+    width: 100%;
+    height: auto;
+    margin-top: 151px;
+}
+.section3 .sec3_all_wrapp{
+    width: 1140px;
+    height: 460px;
+    border: 2px dashed rgb(238, 236, 236);
+    margin: 0 auto;
+}
+.section3 .sec3_all_wrapp .sec3_first{
+    width: 1140px;
+    height: 113px;
+    text-align: center;
+}
+.section3 .sec3_all_wrapp .sec3_first h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.section3 .sec3_all_wrapp .sec3_first p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+.section3 .sec3_all_wrapp .sec3_second{
+    margin-top: 48px;
+    display: flex;
+    gap: 24px;
+}
+#card{
+    width: 364px;
+    height: 299px;
+    box-sizing: border-box;
+    padding: 40px;
+}
+#card img{
+    padding-bottom: 24px;
+}
+#card h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 8px;
+}
+#card p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    padding-bottom: 24px;
+    width: 284px;
+    height: 52px;
+    overflow: hidden;
+}
+#card a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+.background1{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.background2{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.background3{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+/* section 3 end*/
+
 
 
 
